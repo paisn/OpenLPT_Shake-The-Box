@@ -1,9 +1,9 @@
 0 # Triangulation Only? (No IPR or tracking) 1 for yes/ 0 for no 
 0 # Triangulation & IPR only? (No tracking)
 
-[Directory of the sample data]\SD00125\VSC_Calib_11.03.17.txt # Path to camera calibration file
-[Directory of the sample data]\SD00125\ # Path to TIFF files 
-[Directory of the sample data]\SD00125\OTFParameters.txt # Path to OTF text data file
+[Full Path to Directory of the sample data]/SD00125/VSC_Calib_11.03.17.txt # Path to camera calibration file
+[Full Path to Directory of the sample data]/SD00125/ # Path to TIFF files 
+[Full Path to Directory of the sample data]/SD00125/OTFParameters.txt # Path to OTF text data file
 4  # Average particle size in pixels
 4  # No. of outerloop iterations
 6  # No. of innerloop iterations
