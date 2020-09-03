@@ -1,6 +1,6 @@
 # ShakeTheBox
 ---
-**This fork** of the [ShakeTheBox Open Source project] (https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box) supported by [ILA_5150] (https://ila5150.de/en) offers a simpler compilation by using the common CMake approach instead of using Eclipse.
+**This fork** of the [ShakeTheBox OpenLPT project](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box) supported by [ILA_5150](https://ila5150.de/en) offers a simpler compilation by using the common CMake approach instead of using Eclipse.
 So you do not need to install Eclipse and the Java runtime for building the binary.
 We updated the tutorial as well but without the use of a pptx presentation. Please check Tutorial.txt
 
