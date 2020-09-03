@@ -1,11 +1,13 @@
 # ShakeTheBox
----
+
+## Fork for CMake
 **This fork** of the [ShakeTheBox OpenLPT project](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box) supported by [ILA_5150](https://ila5150.de/en) offers a simpler compilation by using the common CMake approach instead of using Eclipse.
 So you do not need to install Eclipse and the Java runtime for building the binary.
 We updated the tutorial as well but without the use of a pptx presentation. Please check TutorialforCMakebuild.txt. Thanks to Rui Ni and the guys at Johns Hopkins University this version of an open Source Laplacian Tracking Algorithm is available. We at ILA_5150 support this project and try to contribute regularly with some new features and improvements.
 For any questions related to this fork please contact kallweit@ila5150.de
----
 
+
+## Original STB
 NOTICE: Thanks for visiting STB repository. The lastest version of OpenLPT has been uploaded, in addition to a first version of tutorial and the sample data "SD00125". The first version of tutorial introduces how to compile the code on both Windows and Linux system and how to test the code with the sample data set. For later version of tutorial which may be uploaded by the middle of Feburary, we will show how to obtain a better calibration and how to adjust the parameters in the configure file to achieve the best performance of the code.    
 
 ShakeTheBox provides a C++ code for processing images in order to obtain tracks of particles seeded in the flow. Usually at least three cameras are needed to reconstruct 3D tracks. Anyone who uses this code and develop this code for their research should cite the following publication in their work：
