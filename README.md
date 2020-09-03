@@ -4,9 +4,7 @@
 So you do not need to install Eclipse and the Java runtime for building the binary.
 We updated the tutorial as well but without the use of a pptx presentation. Please check Tutorial.txt
 
-Thanks to Rui Ni and the guys at Johns Hopkins University this version of an open Source Laplacian Tracking Algorithm is available.
-
-We at ILA_5150 support this project and try to contribute regularly with some new features and improvements.
+Thanks to Rui Ni and the guys at Johns Hopkins University this version of an open Source Laplacian Tracking Algorithm is available. We at ILA_5150 support this project and try to contribute regularly with some new features and improvements.
 For any questions related to this fork please contact kallweit@ila5150.de
 ---
 
