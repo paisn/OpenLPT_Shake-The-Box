@@ -2,9 +2,7 @@
 ---
 **This fork** of the [ShakeTheBox OpenLPT project](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box) supported by [ILA_5150](https://ila5150.de/en) offers a simpler compilation by using the common CMake approach instead of using Eclipse.
 So you do not need to install Eclipse and the Java runtime for building the binary.
-We updated the tutorial as well but without the use of a pptx presentation. Please check Tutorial.txt
-
-Thanks to Rui Ni and the guys at Johns Hopkins University this version of an open Source Laplacian Tracking Algorithm is available. We at ILA_5150 support this project and try to contribute regularly with some new features and improvements.
+We updated the tutorial as well but without the use of a pptx presentation. Please check TutorialforCMakebuild.txt. Thanks to Rui Ni and the guys at Johns Hopkins University this version of an open Source Laplacian Tracking Algorithm is available. We at ILA_5150 support this project and try to contribute regularly with some new features and improvements.
 For any questions related to this fork please contact kallweit@ila5150.de
 ---
 
