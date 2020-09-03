@@ -1,6 +1,7 @@
 Building STB with CMake
 
-Be sure to have a couple of dependencies installed: the gomp library for OpenMP and the libtiff library for processing tiff images. These libraries are later linked to the binary.
+Be sure to have a couple of dependencies installed: the gomp library for OpenMP and the libtiff library for processing tiff images.
+These libraries are later linked to the binary.
 
 After cloning the git repo go to the working subdirectory e.g. <your_subdirectory>/OpenLPT_Shake-The-Box/ShakeTheBox
 
@@ -79,4 +80,5 @@ After updating both files (trackingconfig1.txt and iprconfig.txt) you can launch
 
 $ ./ShakeTheBox <your_complete_path_to_the_subdirectory>/OpenLPT_Shake-The-Box/SD00125/trackingconfig1.txt
 
-The following menu shows a couple of evaluation options. For a test choose "0" and "0". With 50 images, where the number of images can be set in the trackingconfig1.txt, it can take already 10000s (Core i5). 
+The following menu shows a couple of evaluation options. For a test choose "0" and "0". With 50 images,
+where the number of images can be set in the trackingconfig1.txt, it can take already 10000s (Core i5). 
