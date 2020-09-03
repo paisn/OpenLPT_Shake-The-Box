@@ -7,8 +7,8 @@ cam1ImageNames.txt # text file with first camera image names
 cam2ImageNames.txt # text file with second camera image names 
 cam3ImageNames.txt # text file with third camera image names 
 cam4ImageNames.txt # text file with fourth camera image names 
-[Directory of the sample data]\SD00125/iprconfig.txt # Path to ipr configuration file
-[Directory of the sample data]\SD00125/predictivefield.txt # path to predictive field file
+[Full Path to Directory of the sample data]/SD00125/iprconfig.txt # Path to ipr configuration file
+[Full Path to Directory of the sample data]/SD00125/predictivefield.txt # path to predictive field file
 1 # first frame
 50 #last frame
 ./matched.gdf # stereomatched 3D positions 
