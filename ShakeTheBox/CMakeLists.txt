@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(ShakeTheBox src/CPVGDFTracker.cpp)
 
 # add some necessary options for the compiler e.g. -fpermissive
-add_compile_options(-fopenmp -fpermissive -std=c++11 -Wno-deprecated)
+add_compile_options(-fopenmp -fpermissive -std=c++11 -Wno-deprecated -O3 -c -fmessage-length=0)
 
 # add the include directories
 target_include_directories(ShakeTheBox
