@@ -80,8 +80,8 @@ After updating both files (trackingconfig1.txt and iprconfig.txt) you can launch
 
 $ ./ShakeTheBox <your_complete_path_to_the_subdirectory>/OpenLPT_Shake-The-Box/SD00125/trackingconfig1.txt
 
-The following menu shows a couple of evaluation options. For a test choose "0" and "0". With 50 images,
-where the number of images can be set in the trackingconfig1.txt, it can take already 10000s (Core i5).
+The following menu shows a couple of evaluation options. For a test choose "0" and "0". With 10 images,
+where the number of images can be set in the trackingconfig1.txt, it takes around 200s (Core i5 - six cores).
 
 When you relaunch the binary with a different configuration e.g. changing the number of frames, do not forget
 to delete the /Tracks subdirectory prior launch. Otherwise STB will not overwrite or generate new tracks and
